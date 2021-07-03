@@ -4,7 +4,6 @@ CREATE DATABASE vk;
 -- Делаем её текущей
 USE vk;
 
-
 /* 
  * 1.
  * Добавлен справочник стран - таблица countries, поле profiles.country заменено на profile.country_id
